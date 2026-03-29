@@ -18,6 +18,7 @@
 
 **THEORY:**
 
+
 *Kirchhoff’s Current Law (KCL) states that, ‘in an electric network, the algebraic sum of currents meeting at any junction is zero’. Since charges can never accumulate at any point, the charges flowing towards a junction must be equal to the charges flowing away from the junction.*
 
 *Kirchhoff’s Voltage Law (KVL) states that, ‘in an electric network, the algebraic sum of voltages in a closed path is zero’. Since potential at a point is a single value, the sum of all potential drops must be equal when traversing a closed path and coming back to the same point*
